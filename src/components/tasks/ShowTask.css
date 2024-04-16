@@ -1,0 +1,13 @@
+.taskstable{
+    padding: 2% 10% 2% 10%;
+    margin: 2% 10% 2% 10%;
+    border-color: black;
+    box-shadow: 5px 10px #888888;
+}
+
+.btnCreateTask
+{
+    padding: 2% 10% 2% 10%;
+    margin: 2% 10% 2% 10%;
+    display: grid !important;
+}
